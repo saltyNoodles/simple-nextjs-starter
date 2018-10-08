@@ -1,0 +1,22 @@
+{
+  "name": "next-simple-starter",
+  "version": "0.0.1",
+  "description": "A basic starter app for Next.js",
+  "main": "index.js",
+  "author": "Derrick Cudd",
+  "license": "MIT",
+  "dependencies": {
+    "@types/next": "^7.0.1",
+    "@types/react": "^16.4.16",
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-icons": "^3.1.0",
+    "styled-components": "^3.4.9"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
